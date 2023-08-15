@@ -1,6 +1,6 @@
 # Expense Tracker App
 
-Welcome to the Expense Tracker App repository! This application is designed to help you effortlessly manage your expenses by providing a user-friendly interface to input, track, and display your financial records.
+Welcome to my firt practice demo project in Maximilian Schwarzmüller's "React The Complete Guide" course. This application is designed to help you effortlessly manage your expenses by providing a user-friendly interface to input, track, and display your financial records.
 
 ## Features
 
