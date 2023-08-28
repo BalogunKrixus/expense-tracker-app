@@ -10,10 +10,8 @@ Welcome to my firt practice demo project in Maximilian Schwarzmüller's "React T
 
 ## Technology Used
 
-- _React_: A JavaScript library for building user interfaces.
+- React
 
 ## Getting Started
 
-Check out the live demo of the Newsletter Sign-Up Form: [View Demo](https://balogunkrixus.github.io/expense-tracker-app/)
-
-Happy expense tracking!
+Check out the live demo: [View Demo](https://balogunkrixus.github.io/expense-tracker-app/)
